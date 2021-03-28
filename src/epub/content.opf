@@ -61,13 +61,13 @@
 		<meta property="file-as" refines="#author">Wells, H. G.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Herbert George Wells</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._G._Wells</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79063613</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79063613</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Paul Nash</dc:contributor>
 		<meta property="file-as" refines="#artist">Nash, Paul</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_Nash_(artist)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50047335</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50047335</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charles Keller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Keller, Charles</meta>
