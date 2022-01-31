@@ -11,8 +11,8 @@
 
 /* All dedications */
 section[epub|type~="dedication"]{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 section[epub|type~="dedication"] > *{
