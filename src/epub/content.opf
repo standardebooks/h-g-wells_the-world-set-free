@@ -54,7 +54,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1059</dc:source>
 		<dc:source>https://archive.org/details/worldsetfreestor00wellrich</dc:source>
 		<meta property="se:production-notes">The preface is preserved from the Gutenberg transcription, it doesn't appear in the scanned version.</meta>
-		<meta property="se:word-count">65444</meta>
+		<meta property="se:word-count">65336</meta>
 		<meta property="se:reading-ease.flesch">58.52</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_World_Set_Free</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-g-wells_the-world-set-free</meta>
